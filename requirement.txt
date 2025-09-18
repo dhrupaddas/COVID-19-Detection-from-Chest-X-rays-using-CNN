@@ -1,0 +1,13 @@
+ipykernel
+numpy 
+pandas 
+matplotlib
+seaborn
+opencv-python
+tensorflow
+scikit-learn
+keras
+kaggle
+keras-tuner
+imbalanced-learn
+pillow
